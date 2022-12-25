@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/mohan7427/mohan7427/blob/main/banner1.png)
+![MasterHead](https://github.com/mohan7427/mohan7427/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Mohan Sharma</h1>
 <h3 align="center">A passionate Cloud developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.shutterstock.com/image-vector/vector-illustration-man-working-front-260nw-485667631.jpg"
