@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Sylva and OIaaS](https://gitlab.com/sylva-projects/sylva)
 
-- 💬 Ask me about **Ceph, Openstack, Ansible and Kubernetes**
+- 💬 Ask me about **Ceph, longhorn, rook, Openstack, Ansible and Kubernetes**
 
 - 📫 How to reach me **mohan7427@gmail.com**
 
